@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/Downloads/maven_repositories" />
+        <option name="mavenHome" value="$USER_HOME$/Downloads/Software Dev Work August 2019/Maven 3.6.1/apache-maven-3.6-1.1" />
+        <option name="userSettingsFile" value="$USER_HOME$/Downloads/Software Dev Work August 2019/Maven 3.6.1/apache-maven-3.6-1.1/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1snCjl84X8wPbCpvwcbr4rpdDrE" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.poratu.idea.plugins.tomcat.setting.TomcatSettingConfigurable" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="53" y="52" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621499203444">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state x="53" y="52" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.736@0.23.1280.736" timestamp="1621499203444" />
+  </component>
+</project>
